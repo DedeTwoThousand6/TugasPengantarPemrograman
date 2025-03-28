@@ -1,0 +1,1 @@
+Program ini memberikan fungsionalitas dasar untuk pemesanan tiket penerbangan. Pengguna dapat melihat penerbangan yang tersedia, memesan tiket, dan mendapatkan struk tiket setelah pemesanan. Program ini juga mencakup pemeriksaan validitas untuk memastikan bahwa pemesanan tiket tidak melebihi kapasitas yang ada.
